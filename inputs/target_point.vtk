@@ -1,0 +1,9 @@
+# vtk DataFile Version 4.1
+vtk output
+ASCII
+DATASET POLYDATA
+POINTS 1 float
+19234.4 19886 15900.9
+
+VERTICES 1 2
+1 0 
